@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Birthday Surprise 🎁</title>
+</head>
+
+<body>
+
+  <div class="page">
+    <h1>Hey Birthday Boy 👀</h1>
+
+    <p>I have something for you...</p>
+
+    <button onclick="nextPage()">Open Your Surprise 🎁</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
